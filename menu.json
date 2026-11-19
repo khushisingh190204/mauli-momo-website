@@ -1,0 +1,12 @@
+[
+  {"name":"Darjeeling Veg Momo","diet":"veg","category":"Veg Momos","description":"A classic Darjeeling-style favourite.","preparations":["Steamed","Fried","Soupy","Kurkure","Marinate","Butter Garlic","Jhol"],"price":"Ask for current price"},
+  {"name":"Paneer Peri Peri Momo","diet":"veg","category":"Veg Momos","description":"Paneer with a lively peri peri kick.","preparations":["Steamed","Fried","Soupy","Kurkure","Marinate","Butter Garlic","Jhol"],"price":"Ask for current price"},
+  {"name":"Corn & Cheese Momo","diet":"veg","category":"Veg Momos","description":"A comforting corn and cheese combination.","preparations":["Steamed","Fried","Soupy","Kurkure","Marinate","Butter Garlic","Jhol"],"price":"Ask for current price"},
+  {"name":"Darjeeling Chicken Momo","diet":"chicken","category":"Chicken Momos","description":"A classic chicken momo, Darjeeling style.","preparations":["Steamed","Fried","Soupy","Kurkure","Marinate","Butter Garlic","Jhol"],"price":"Ask for current price"},
+  {"name":"Chicken Cheese Momo","diet":"chicken","category":"Chicken Momos","description":"Chicken momo with a cheesy centre.","preparations":["Steamed","Fried","Soupy","Kurkure","Marinate","Butter Garlic","Jhol"],"price":"Ask for current price"},
+  {"name":"Chicken Peri Peri Momo","diet":"chicken","category":"Chicken Momos","description":"A spicy peri peri chicken favourite.","preparations":["Steamed","Fried","Soupy","Kurkure","Marinate","Butter Garlic","Jhol"],"price":"Ask for current price"},
+  {"name":"Veg Sha Phaley","diet":"veg","category":"Sha Phaley","description":"Crispy, savoury Darjeeling-style bread stuffed with a vegetable filling.","preparations":[],"price":"₹60"},
+  {"name":"Chicken Sha Phaley","diet":"chicken","category":"Sha Phaley","description":"Crispy, savoury Darjeeling-style bread with a chicken filling.","preparations":[],"price":"₹80"},
+  {"name":"Veg Thukpa","diet":"veg","category":"Thukpa","description":"A comforting bowl of vegetable noodle soup.","preparations":[],"price":"₹150"},
+  {"name":"Chicken Thukpa","diet":"chicken","category":"Thukpa","description":"A comforting bowl of chicken noodle soup.","preparations":[],"price":"₹180"}
+]
